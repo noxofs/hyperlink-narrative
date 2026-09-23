@@ -2,4 +2,18 @@
 
 * {
 	font-family: Arial;
+	line-height: 1.4em;
+}
+
+p a {
+	font-family:'Courier New', Courier, monospace;
+	font-size: 1.3em;
+	color: red;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+p a:hover {
+	color: dodgerblue;
+	border-bottom: 2px dotted dodgerblue;
 }
