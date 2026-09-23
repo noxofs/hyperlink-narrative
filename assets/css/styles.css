@@ -24,9 +24,26 @@ ul.choices {
 }
 
 ul.choices li a {
-	color: red;
+	color: rgb(30, 2, 157);
 	text-decoration: none;
 	font-weight: bold;
 	display: block;
-	border: 4px dashed #2e3d28;
+	border: 4px dashed #62520b;
+	background-color: rgb(234, 230, 176);
+	margin: 10px;
+	padding: 15px 18px;
+}
+
+ul.choices li a:hover {
+	color: rgb(234, 230, 176);
+	background-color: #62520b;
+}
+
+img {
+	padding: 20px;
+	border-radius: 10px 40px 5px 0;
+}
+
+img:hover {
+	background-color: #000;
 }
