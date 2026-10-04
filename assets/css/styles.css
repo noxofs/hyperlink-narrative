@@ -30,6 +30,21 @@ body.color4 {
 	color: #ffffff;
 }
 
+body.color5 {
+	background-color: #595959;
+	color: #ffffff;
+}
+
+body.color6 {
+	background-color: #9e9e9e;
+	color: #000000;
+}
+
+body.color7 {
+	background-color: #FFFFFF;
+	color: #000000;
+}
+
 p {
 	margin-left: 25%;
 	margin-right: 25%;
