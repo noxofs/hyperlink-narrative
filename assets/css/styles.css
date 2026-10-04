@@ -25,6 +25,11 @@ body.color3 {
 	color: #ffffff;
 }
 
+body.color4 {
+	background-color: #383838;
+	color: #ffffff;
+}
+
 p {
 	margin-left: 25%;
 	margin-right: 25%;
